@@ -1,1 +1,29 @@
-Implemented real-time audio effects using the TMS320C6416T DSP platform and Code Composer Studio. Developed and optimized algorithms to create diverse effects such as: \begin{itemize} \item \textbf{Robotic Voice}: Applied amplitude modulation and spectral shaping to synthesize a mechanical vocal quality. \item \textbf{Dark Phonk}: Introduced deep bass enhancement, distortion, and filtering to mimic the dark, gritty textures of the Phonk music genre. \item \textbf{Walkie Talkie Effect}: Simulated narrow-band communication audio by applying band-pass filtering and dynamic range compression. \item \textbf{3D Audio Effect}: Created spatialization by manipulating interaural time differences (ITD) and amplitude panning for immersive stereo output. \end{itemize} Gained hands-on experience in fixed-point DSP programming, real-time signal path optimization, and audio codec configuration.# VibeShift
+We implemented real-time audio effects using the TMS320C6416T DSP platform and Code Composer Studio. This project focused on designing and optimizing digital signal processing algorithms to create various audio effects in real-time.
+
+Implemented Effects:
+Robotic Voice:
+Applied amplitude modulation and spectral shaping techniques to synthesize a mechanical, metallic voice texture.
+
+Dark Phonk:
+Designed deep bass enhancement, intentional distortion, and selective frequency filtering to recreate the dark, gritty soundscape characteristic of the Phonk music genre.
+
+Walkie Talkie Effect:
+Simulated narrow-band communication audio by applying band-pass filtering and dynamic range compression to mimic traditional walkie-talkie sound characteristics.
+
+3D Audio Effect:
+Created spatial audio perception by manipulating interaural time differences (ITD) and amplitude panning, providing an immersive stereo experience.
+
+Tools and Skills:
+Platform: TMS320C6416T DSP Starter Kit (DSK6416T)
+
+Software: Code Composer Studio (CCS)
+
+Techniques:
+
+Real-time fixed-point DSP programming
+
+Audio codec configuration and control
+
+Real-time signal path optimization
+
+Algorithm design for audio effects
