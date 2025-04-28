@@ -1,7 +1,7 @@
-# Real-Time Audio Processing on DSP 6416T
+![Screenshot 2025-04-28 125303](https://github.com/user-attachments/assets/eeb08982-acee-4857-95e1-7c426bdc74f1)# Real-Time Audio Processing on DSP 6416T
 
 We implemented real-time audio effects using the **TMS320C6416T DSP** platform and **Code Composer Studio**. This project focused on designing and optimizing digital signal processing algorithms to create various audio effects in real-time.
-
+![Uploading Screenshot 2025-04-28 125303.png…]()
 ## Implemented Effects
 
 - **Robotic Voice**  
@@ -25,6 +25,7 @@ We implemented real-time audio effects using the **TMS320C6416T DSP** platform a
   - Audio codec configuration and control
   - Real-time signal path optimization
   - Algorithm design for audio effects
+
 
 ## Future Improvements
 
